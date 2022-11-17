@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "fee5157dacc61aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c78d254df66153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba8e7a2de44c62da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "life/attach/Drawing 2022-11-17 22.56.33.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7af51219000b3a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d9307dccbfa63e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c4bf8202b53203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b8872145afb444",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e733334ca2451726",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ca5937b86d79525",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0492b6cbbbff36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35189bf77bd90512",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "life/attach/Drawing 2022-11-17 22.56.33.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ed3f323d520a3a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "life/attach/Drawing 2022-11-17 22.56.33.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a34763686796e9f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09edb2439d0b1801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "life/attach/Drawing 2022-11-17 22.56.33.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ba8e7a2de44c62da",
+  "lastOpenFiles": [
+    "life/Love Mr Wang day.md",
+    "life/attach/Drawing 2022-11-17 22.56.33.excalidraw.md",
+    "life/media/Love Mr Wang day/综合讨论区（着色2）.png"
+  ]
+}
